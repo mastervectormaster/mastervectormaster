@@ -77,4 +77,10 @@ Handles any part of process with ease. Collaborative team player with excellent 
 <div>
   https://github.com/ananyaneogi/a-vue-shop
 </div>
-
+<div>
+  https://github.com/dwoods447/vue-job-portal
+</div>
+<div>
+  https://github.com/vamshop/vamshop-api
+</div>
+https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n
