@@ -71,16 +71,3 @@ Handles any part of process with ease. Collaborative team player with excellent 
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
   </div>
 </div>
-<div>
-  https://github.com/pancakeswap/pancake-frontend
-</div>
-<div>
-  https://github.com/ananyaneogi/a-vue-shop
-</div>
-<div>
-  https://github.com/dwoods447/vue-job-portal
-</div>
-<div>
-  https://github.com/vamshop/vamshop-api
-</div>
-https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n
